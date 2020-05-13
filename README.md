@@ -28,4 +28,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [23]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Find%20the%20Town%20Judge.playground>
 [24]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Flood%20Fill.playground>
 [25]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Single%20Element%20in%20a%20Sorted%20Array.playground>
-[26]: <https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Medium/402.%20Remove%20K%20Digits.playground>
+[26]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Remove%20K%20Digits.playground>
