@@ -16,7 +16,10 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Flood Fill][24]
 - [Single Element in a Sorted Array][25]
 - [Remove K Digits][26]
-- [Implement Trie (Prefix Tree)[27]]
+- [Implement Trie (Prefix Tree)][27]
+
+### [Week 3](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203): May 15th–May 21st
+- [Maximum Sum Circular Subarray][31]
 
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
@@ -31,3 +34,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [25]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Single%20Element%20in%20a%20Sorted%20Array.playground>
 [26]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Remove%20K%20Digits.playground>
 [27]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Implement%20Trie%20(Prefix%20Tree).playground>
+[31]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/blob/master/Week%203/Maximum%20Sum%20Circular%20Subarray.playground/Contents.swift>
