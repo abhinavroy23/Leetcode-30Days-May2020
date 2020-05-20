@@ -8,6 +8,7 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Number Complement][14]
 - [First Unique Character in a String][15]
 - [Majority Element][16]
+- [Cousins in Binary Tree][17]
 
 ### [Week 2](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202): May 8th–May 14th
 - [Check If It Is a Straight Line][21]
@@ -45,3 +46,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [34]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Permutation%20in%20String.playground>
 [35]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Online%20Stock%20Span.playground>
 [36]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Kth%20Smallest%20Element%20in%20a%20BST.playground>
+[17]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Cousins%20in%20Binary%20Tree.playground>
