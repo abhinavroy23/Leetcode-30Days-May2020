@@ -26,6 +26,7 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Permutation in String][34]
 - [Online Stock Span][35]
 - [Kth Smallest Element in a BST][36]
+- [Count Square Submatrices with All Ones][37]
 
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
@@ -33,6 +34,7 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [14]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Number%20Complement.playground>
 [15]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Unique%20Character%20in%20a%20String.playground>
 [16]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Majority%20Element.playground>
+[17]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Cousins%20in%20Binary%20Tree.playground>
 [21]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Check%20If%20It%20Is%20a%20Straight%20Line.playground>
 [22]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Valid%20Perfect%20Square.playground>
 [23]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%202/Find%20the%20Town%20Judge.playground>
@@ -46,4 +48,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [34]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Permutation%20in%20String.playground>
 [35]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Online%20Stock%20Span.playground>
 [36]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Kth%20Smallest%20Element%20in%20a%20BST.playground>
-[17]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Cousins%20in%20Binary%20Tree.playground>
+[37]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Count%20Square%20Submatrices%20with%20All%20Ones.playground>
