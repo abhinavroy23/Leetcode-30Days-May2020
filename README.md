@@ -28,6 +28,9 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Kth Smallest Element in a BST][36]
 - [Count Square Submatrices with All Ones][37]
 
+### [Week 4](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204): May 22nd–May 28th
+- [Sort Characters By Frequency][41]
+
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
 [13]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Ransom%20Note.playground>
@@ -49,3 +52,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [35]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Online%20Stock%20Span.playground>
 [36]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Kth%20Smallest%20Element%20in%20a%20BST.playground>
 [37]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Count%20Square%20Submatrices%20with%20All%20Ones.playground>
+[41]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Sort%20Characters%20By%20Frequency.playground>
