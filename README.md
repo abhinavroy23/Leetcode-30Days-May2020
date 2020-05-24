@@ -31,6 +31,7 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 ### [Week 4](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204): May 22nd–May 28th
 - [Sort Characters By Frequency][41]
 - [Interval List Intersections][42]
+- [Construct Binary Search Tree from Preorder Traversal][43]
 
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
@@ -55,3 +56,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [37]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%203/Count%20Square%20Submatrices%20with%20All%20Ones.playground>
 [41]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Sort%20Characters%20By%20Frequency.playground>
 [42]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Interval%20List%20Intersections.playground>
+[43]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.playground>
