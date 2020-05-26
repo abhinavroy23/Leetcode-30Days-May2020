@@ -33,6 +33,7 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Interval List Intersections][42]
 - [Construct Binary Search Tree from Preorder Traversal][43]
 - [Uncrossed Lines][44]
+- [Contiguous Array][45]
 
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
@@ -59,3 +60,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [42]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Interval%20List%20Intersections.playground>
 [43]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.playground>
 [44]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Uncrossed%20Lines.playground>
+[45]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Contiguous%20Array.playground>
