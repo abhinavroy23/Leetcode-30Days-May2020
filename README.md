@@ -37,6 +37,9 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - [Possible Bipartition][46]
 - [Counting Bits][47]
 
+### [Week 5](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205): May 29th–May 30th
+- [Course Schedule][51]
+
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
 [13]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Ransom%20Note.playground>
@@ -65,3 +68,4 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [45]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Contiguous%20Array.playground>
 [46]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Possible%20Bipartition.playground>
 [47]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Counting%20Bits.playground>
+[51]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205/Course%20Schedule.playground>
