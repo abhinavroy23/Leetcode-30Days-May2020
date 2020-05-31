@@ -39,6 +39,8 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 
 ### [Week 5](https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205): May 29th–May 30th
 - [Course Schedule][51]
+- [K Closest Points to Origin][52]
+- [Edit Distance][53]
 
 [11]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/First%20Bad%20Version.playground>
 [12]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%201/Jewels%20and%20Stones.playground>
@@ -69,3 +71,5 @@ https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 [46]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Possible%20Bipartition.playground>
 [47]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%204/Counting%20Bits.playground>
 [51]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205/Course%20Schedule.playground>
+[52]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205/K%20Closest%20Points%20to%20Origin.playground>
+[53]: <https://github.com/abhinavroy23/Leetcode-30Days-May2020/tree/master/Week%205/Edit%20Distance.playground>
